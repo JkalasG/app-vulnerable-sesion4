@@ -30,4 +30,4 @@ jobs:
     needs: [sast, sca]
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Gate placeholder — reemplaza este job con el fragmento que te dio el docente"
+      - run: echo "Gate placeholder — reemplaza con el fragmento del docente"
